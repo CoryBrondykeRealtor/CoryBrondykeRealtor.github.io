@@ -14,17 +14,18 @@ body {
 }
 
 .footer {
-   width: 250px;
+   width: 200px;
    margin: 10px auto;
    border: 4px solid black;
    background: white;   
-   
+   font-family: 'Just Another Hand', cursive;
+   font-size: 22px;
 }
 
 .equalHousing {
    height: 50px;
    float: right;
-   margin: -38px 15px 0 0;
+   margin: -30px 15px 0 0;
 }
 
 .handwritten {
