@@ -16,6 +16,7 @@ body {
 .footer {
    width: 200px;
    margin: 10px auto;
+   line-height: 26px;
    border: 4px solid black;
    background: white;   
    font-family: 'Just Another Hand', cursive;
@@ -25,7 +26,7 @@ body {
 .equalHousing {
    height: 50px;
    float: right;
-   margin: -30px 15px 0 0;
+   margin: -45px 15px 0 0;
 }
 
 .handwritten {
