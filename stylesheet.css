@@ -89,22 +89,29 @@ a:visited {
       border-radius: 0 0 30px 30px;
    }
    
-   header {
-      font-size: 180%; 
+   h1 {
+      font-size: 250%; 
+   }
+   h2 {
+      font-size: 120%;
    }
 
    h3 {
-      font-size: 2em;
+      font-size: 2.5em;
+      padding: 15px 0;
    }
    
    .handwritten {
-      font-size: 140%;
+      font-size: 180%;
    }
 
    .resize {
       height: 250px;
-      margin: 23px 5px 23px 5px;
+      margin: 23px 15px 23px 10px;
       
+   }
+   span.font80 {
+      display: inline;
    }
 }
 }
